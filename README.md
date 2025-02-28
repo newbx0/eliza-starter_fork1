@@ -1,5 +1,5 @@
 # Eliza
-
+hello
 ## Edit the character files
 
 Open `src/character.ts` to modify the default character. Uncomment and edit.
